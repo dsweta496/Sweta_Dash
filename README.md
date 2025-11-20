@@ -1,7 +1,7 @@
-# Hi, I'm Sweta 👋  
+# Hi, I'm Sweta  
 ### B.Tech CSE @ GGSIPU | Java Developer | Full-Stack Engineer | Exploring Blockchain & HealthTech
 
-🚀 Passionate about building scalable backend systems, intuitive full-stack apps, and meaningful tech solutions.
+Passionate about building scalable backend systems, intuitive full-stack apps, and meaningful tech solutions.
 
 ## 🔧 Tech Stack  
 **Languages:** Java, JavaScript, C++, Python  
@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 Current Work  
+## Current Work  
 - Building Java + Spring Boot backend projects  
 - Creating full-stack applications using React  
 - Learning Solidity & blockchain development  
@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Featured Projects (Pinned Below)  
+## Featured Projects (Pinned Below)  
 - Java Spring Boot E-Commerce API  
 - React + Spring Boot Task Manager  
 - Blockchain Voting System (Solidity)  
@@ -30,6 +30,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me 
+www.linkedin.com/in/dsweta496
 📩 Email: **dsweta496@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/dsweta496**
